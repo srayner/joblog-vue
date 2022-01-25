@@ -1,24 +1,19 @@
-# todo-app
+# JobLog Front (Vue.js version)
 
-## Project setup
+## Installation
+
+Clone this repo
+
 ```
+git clone https://github.com/srayner/joblog-vue
+```
+
+Run installation
+
+```
+cd joblog-vue
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+Start the application in a development environment
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
