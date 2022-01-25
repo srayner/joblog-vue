@@ -16,4 +16,7 @@ npm install
 ```
 
 Start the application in a development environment
+
+```
 npm run serve
+```
